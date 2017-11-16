@@ -4,3 +4,6 @@
         display: none !important;
     }
 }
+
+// Remove blur effect on mouse hover - zoom action
+-webkit-backface-visibility: hidden;
