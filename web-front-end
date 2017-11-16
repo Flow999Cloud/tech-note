@@ -1,0 +1,6 @@
+//SCSS : apply style if the parent has(or not) a certain class
+.only-mobile-tablet {
+    header:not(.mobile-menu-active) & {
+        display: none !important;
+    }
+}
