@@ -11,8 +11,8 @@
 // Create a arrow-top icon using CSS.
 .arrow-up {
     border-bottom: 24px solid black;
-    border-left: 24px solid #e84d4d00;
-    border-right: 24px solid #ffffff00;
+    border-left: 24px solid transparent;
+    border-right: 24px solid transparent;
     height: 0;
     width: 0;
 }
